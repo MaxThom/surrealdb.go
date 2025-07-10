@@ -8,7 +8,7 @@ import (
 	"testing"
 	"time"
 
-	"github.com/surrealdb/surrealdb.go"
+	"github.com/maxthom/surrealdb.go"
 
 	"github.com/stretchr/testify/suite"
 	"github.com/surrealdb/surrealdb.go/pkg/connection"

@@ -6,7 +6,7 @@ import (
 
 	"github.com/surrealdb/surrealdb.go/pkg/models"
 
-	surrealdb "github.com/surrealdb/surrealdb.go"
+	surrealdb "github.com/maxthom/surrealdb.go"
 )
 
 // a simple user struct for testing

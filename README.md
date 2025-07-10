@@ -55,7 +55,7 @@ package main
 
 import (
 	"fmt"
-	surrealdb "github.com/surrealdb/surrealdb.go"
+	surrealdb "github.com/maxthom/surrealdb.go"
 	"github.com/surrealdb/surrealdb.go/pkg/models"
 )
 
@@ -310,8 +310,3 @@ make lint
 
 You also need to be running SurrealDB alongside the tests.
 We recommend using the nightly build, as development may rely on the latest functionality.
-
-
-
-
-
