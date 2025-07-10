@@ -5,7 +5,7 @@ import (
 	"time"
 
 	"github.com/fxamacker/cbor/v2"
-	"github.com/surrealdb/surrealdb.go/pkg/constants"
+	"github.com/maxthom/surrealdb.go/pkg/constants"
 )
 
 // CustomDateTime embeds time.Time

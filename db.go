@@ -10,10 +10,10 @@ import (
 
 	"github.com/fxamacker/cbor/v2"
 
-	"github.com/surrealdb/surrealdb.go/pkg/connection"
-	"github.com/surrealdb/surrealdb.go/pkg/constants"
-	"github.com/surrealdb/surrealdb.go/pkg/logger"
-	"github.com/surrealdb/surrealdb.go/pkg/models"
+	"github.com/maxthom/surrealdb.go/pkg/connection"
+	"github.com/maxthom/surrealdb.go/pkg/constants"
+	"github.com/maxthom/surrealdb.go/pkg/logger"
+	"github.com/maxthom/surrealdb.go/pkg/models"
 )
 
 type VersionData struct {

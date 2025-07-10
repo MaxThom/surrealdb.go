@@ -56,7 +56,7 @@ package main
 import (
 	"fmt"
 	surrealdb "github.com/maxthom/surrealdb.go"
-	"github.com/surrealdb/surrealdb.go/pkg/models"
+	"github.com/maxthom/surrealdb.go/pkg/models"
 )
 
 type Person struct {

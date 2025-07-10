@@ -4,7 +4,7 @@ import (
 	"fmt"
 	"testing"
 
-	"github.com/surrealdb/surrealdb.go/pkg/models"
+	"github.com/maxthom/surrealdb.go/pkg/models"
 
 	surrealdb "github.com/maxthom/surrealdb.go"
 )

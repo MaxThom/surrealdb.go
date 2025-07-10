@@ -2,9 +2,9 @@ package surrealdb
 
 import (
 	"github.com/fxamacker/cbor/v2"
-	"github.com/surrealdb/surrealdb.go/internal/codec"
-	"github.com/surrealdb/surrealdb.go/pkg/constants"
-	"github.com/surrealdb/surrealdb.go/pkg/models"
+	"github.com/maxthom/surrealdb.go/internal/codec"
+	"github.com/maxthom/surrealdb.go/pkg/constants"
+	"github.com/maxthom/surrealdb.go/pkg/models"
 )
 
 // Patch represents a patch object set to MODIFY a record

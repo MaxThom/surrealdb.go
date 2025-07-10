@@ -10,10 +10,10 @@ import (
 	"sync"
 	"time"
 
-	"github.com/surrealdb/surrealdb.go/internal/codec"
+	"github.com/maxthom/surrealdb.go/internal/codec"
 
-	"github.com/surrealdb/surrealdb.go/internal/rand"
-	"github.com/surrealdb/surrealdb.go/pkg/constants"
+	"github.com/maxthom/surrealdb.go/internal/rand"
+	"github.com/maxthom/surrealdb.go/pkg/constants"
 )
 
 type HTTPConnection struct {

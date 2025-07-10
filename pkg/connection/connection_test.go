@@ -7,9 +7,9 @@ import (
 
 	"github.com/stretchr/testify/suite"
 
-	"github.com/surrealdb/surrealdb.go/pkg/constants"
-	"github.com/surrealdb/surrealdb.go/pkg/logger"
-	"github.com/surrealdb/surrealdb.go/pkg/models"
+	"github.com/maxthom/surrealdb.go/pkg/constants"
+	"github.com/maxthom/surrealdb.go/pkg/logger"
+	"github.com/maxthom/surrealdb.go/pkg/models"
 )
 
 type testUser struct {

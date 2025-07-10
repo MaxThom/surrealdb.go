@@ -10,9 +10,9 @@ import (
 
 	"github.com/maxthom/surrealdb.go"
 
+	"github.com/maxthom/surrealdb.go/pkg/connection"
+	"github.com/maxthom/surrealdb.go/pkg/models"
 	"github.com/stretchr/testify/suite"
-	"github.com/surrealdb/surrealdb.go/pkg/connection"
-	"github.com/surrealdb/surrealdb.go/pkg/models"
 )
 
 // Default const and vars for testing
